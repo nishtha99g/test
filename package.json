@@ -1,11 +1,11 @@
 {
   "name": "test",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
-	"release": "standard-version"
+    "release": "standard-version"
   },
   "repository": {
     "type": "git",
@@ -17,7 +17,7 @@
     "url": "https://github.com/nishtha99g/test/issues"
   },
   "homepage": "https://github.com/nishtha99g/test#readme",
-  "dependencies": {
+  "devDependencies": {
     "standard-version": "^9.3.2"
   }
 }
